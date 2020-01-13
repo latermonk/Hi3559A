@@ -66,6 +66,11 @@ change 1080P30  --->>>>   ***1080P60***
 
 ```
 
+
+###   ltshan139's techg blog 
+
+https://me.csdn.net/ltshan139  
+
 ###  海思AI芯片(Hi3519A/3559A)方案学习（一）资料以及术语介绍
 https://blog.csdn.net/avideointerfaces/article/details/88585654    
 
