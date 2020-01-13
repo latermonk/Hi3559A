@@ -58,13 +58,17 @@ exec the binary file though nfs,
 https://blog.csdn.net/zh8706/article/details/94554337     
 
 
-###  display rate 
+###  display rate issue
 ```
 vim  /mpp/sample/svp/multi-core/common/sample_comm_ive.c
 
 change 1080P30  --->>>>   ***1080P60***
 
 ```
+
+###  海思AI芯片(Hi3519A/3559A)方案学习（一）资料以及术语介绍
+https://blog.csdn.net/avideointerfaces/article/details/88585654    
+
 
 
 
