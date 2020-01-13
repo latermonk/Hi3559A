@@ -85,3 +85,5 @@ https://blog.csdn.net/avideointerfaces/article/details/93891881
  #   a better yolov3   Gaussian_YOLOv3
  
  https://github.com/jwchoi384/Gaussian_YOLOv3
+ 
+ **Test  on path   /home/www/src/Gaussian_YOLOv3 :)  **
