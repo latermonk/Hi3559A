@@ -70,10 +70,11 @@ change 1080P30  --->>>>   ***1080P60***
 https://blog.csdn.net/avideointerfaces/article/details/88585654    
 
 
+###  HiSI3559A   YOLOV3   开发板上运行yolo3模型的代码分析
+
+
+https://blog.csdn.net/avideointerfaces/article/details/93891881
 
 
 
-
-
-
-
+ 
