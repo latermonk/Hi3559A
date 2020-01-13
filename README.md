@@ -42,6 +42,14 @@ exec the binary file though nfs,
 
 ---------------------
 
+#  yolov3 demo
+
+```
+./sample_nnie_main  8   /mnt/nfs/src/mpp/sample/svp/multi-core/nnie/data/nnie_image/rgb_planar/dog_bike_car.jpg
+
+
+```
+
 
 
 ##  reference  
