@@ -46,8 +46,21 @@ exec the binary file though nfs,
 
 ##  reference  
 
-海思Hi3559AV100/Hi3519AV100 NNIE深度学习模块开发与调试记录 
+###  海思Hi3559AV100/Hi3519AV100 NNIE深度学习模块开发与调试记录 
 https://blog.csdn.net/zh8706/article/details/94554337     
+
+
+###  display rate 
+```
+vim  /mpp/sample/svp/multi-core/common/sample_comm_ive.c
+
+change 1080P30  --->>>>   ***1080P60***
+
+```
+
+
+
+
 
 
 
