@@ -2,7 +2,7 @@
 海思3559A开发
 
 
-()[https://raw.githubusercontent.com/latermonk/Hi3559A/master/_image/body_1.png]
+![ATLAS](https://raw.githubusercontent.com/latermonk/Hi3559A/master/_image/body_1.png)
 
 #  Compiler DIR
 **aarch64-himix100-linux-gcc**   
